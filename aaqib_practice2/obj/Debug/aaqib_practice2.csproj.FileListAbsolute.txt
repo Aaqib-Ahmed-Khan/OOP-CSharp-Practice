@@ -1,0 +1,7 @@
+D:\c#_practice\aaqib_practice2\bin\Debug\aaqib_practice2.exe.config
+D:\c#_practice\aaqib_practice2\bin\Debug\aaqib_practice2.exe
+D:\c#_practice\aaqib_practice2\bin\Debug\aaqib_practice2.pdb
+D:\c#_practice\aaqib_practice2\obj\Debug\aaqib_practice2.csproj.AssemblyReference.cache
+D:\c#_practice\aaqib_practice2\obj\Debug\aaqib_practice2.csproj.CoreCompileInputs.cache
+D:\c#_practice\aaqib_practice2\obj\Debug\aaqib_practice2.exe
+D:\c#_practice\aaqib_practice2\obj\Debug\aaqib_practice2.pdb

@@ -1,0 +1,2 @@
+📝 OOP-CSharp-Practice
+"A collection of Object-Oriented Programming (OOP) concepts implemented in C# ⚡. Covers principles like encapsulation 🔒, inheritance 🏛️, polymorphism 🎭, abstraction 🎯, etc. with example projects and exercises for hands-on learning. 🚀"
